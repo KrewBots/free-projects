@@ -6,8 +6,8 @@ run, fork or self-host any of them on its own.
 
 | Project | What it does | Runs | Your data | Try it | Licence |
 |---|---|---|---|---|---|
-| [Subscription Finder](https://github.com/krewbots/subscription-finder) | Drop in a bank or card CSV and see every recurring charge, its yearly cost, price increases, duplicates and an official cancel link. | Static site (GitHub Pages) or `npm start` | Stays in your browser | TODO live demo link at launch | MIT |
-| [Trades Quote Builder](https://github.com/krewbots/trades-quote-builder) | Build a plumbing or electrical quote, export a branded PDF and get it signed on site or by email with automatic follow-ups. | Node 20+ (`npm start`, `npm run demo`) | Browser storage; emailed quotes on your own server | `npm run demo` locally | MIT |
+| [Subscription Finder](https://github.com/KrewBots/subscription-finder) | Drop in a bank or card CSV and see every recurring charge, its yearly cost, price increases, duplicates and an official cancel link. | Static site (GitHub Pages) or `npm start` | Stays in your browser | [Live demo](https://krewbots.github.io/subscription-finder/) | MIT |
+| [Trades Quote Builder](https://github.com/KrewBots/trades-quote-builder) | Build a plumbing or electrical quote, export a branded PDF and get it signed on site or by email with automatic follow-ups. | Node 20+ (`npm start`, `npm run demo`) | Browser storage; emailed quotes on your own server | `npm run demo` locally | MIT |
 
 ## Ground rules for every project
 
